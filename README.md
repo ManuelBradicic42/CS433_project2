@@ -127,6 +127,7 @@ The training and inference scripts store results using wandb, if you do not have
 ## Training/Test/Validation the model
 
 1. Install environment_vit.yml using conda
+2. Download pretrained .pth model and put into \vit\saved: https://drive.google.com/file/d/1Wp2YWZF2wsnmVqITLQI8F9tlhly8jEvn/view?usp=sharing
 2. Use jupyter notebook: \VIT\main_pretrained.ipynb
 
 ---
